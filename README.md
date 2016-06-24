@@ -22,25 +22,25 @@ bash ./firefox_security_toolkit.sh
 [Demo Video](https://www.youtube.com/watch?v=0pD-tNrxrzY)
 
 ####Available Addons:-
-* Cookie Export/Import
-* Cookie Manager 
-* Copy as Plain Text
-* Crypto Fox
-* CSRF-Finder
-* Disable WebRTC
-* FireBug
-* Fireforce
-* FlagFox
-* Foxy Proxy
-* HackBar
-* Live HTTP Headers
-* Multi Fox
-* PassiveRecon
-* Right-Click XSS
-* Tamper Data
-* User Agent Switcher
-* Wappalyzer
-* Web Developer
+* Cookie Export/Import (https://addons.mozilla.org/es/firefox/addon/cookies-exportimport/)
+* Cookie Manager (https://addons.mozilla.org/es/firefox/addon/cookies-manager-plus/) Chrome (https://chrome.google.com/webstore/detail/cookie-manager/kbnfbcpkiaganjpcanopcgeoehkleeck)
+* Copy as Plain Text (https://addons.mozilla.org/es/firefox/addon/copy-plain-text-2/) Chrome (https://chrome.google.com/webstore/detail/copy-as-plain-text-amazin/mkkcgjeddgdnikkeoinjgbocghokolck)
+* CryptoFox (https://addons.mozilla.org/en-US/firefox/addon/cryptofox/)
+* CSRF-Finder (https://addons.mozilla.org/es/firefox/addon/csrf-finder/) Chrome (https://chrome.google.com/webstore/detail/csrf-discoverer/acpmnjbbeadfhlikfibcjbkmfbopadek)
+* Disable WebRTC (https://addons.mozilla.org/es/firefox/addon/happy-bonobo-disable-webrtc/) Chrome (https://chrome.google.com/webstore/detail/webrtc-leak-prevent/eiadekoaikejlgdbkbdfeijglgfdalml)
+* FireBug (https://addons.mozilla.org/es/firefox/addon/firebug/) Chrome (http://getfirebug.com/releases/lite/chrome/)
+* Fireforce (https://addons.mozilla.org/es/firefox/addon/fireforce/)
+* FlagFox (https://addons.mozilla.org/es/firefox/addon/flagfox/) Chrome (https://chrome.google.com/webstore/detail/udomainflag/eklbfdpploakpkdakoielobggbhemlnm)
+* Foxy Proxy (https://addons.mozilla.org/es/firefox/addon/foxyproxy-standard/) Chrome (https://chrome.google.com/webstore/detail/foxyproxy-standard/gcknhkkoolaabfmlnjonogaaifnjlfnp)
+* HackBar (https://addons.mozilla.org/es/firefox/addon/hackbar/) Chrome (https://chrome.google.com/webstore/detail/hackbar/ejljggkpbkchhfcplgpaegmbfhenekdc)
+* Live HTTP Headers (https://addons.mozilla.org/es/firefox/addon/live-http-headers/) Chrome (https://chrome.google.com/webstore/detail/live-http-headers/iaiioopjkcekapmldfgbebdclcnpgnlo)
+* Multi Fox (https://addons.mozilla.org/es/firefox/addon/multifox/)
+* PassiveRecon (https://addons.mozilla.org/es/firefox/addon/passiverecon/) Chrome (https://chrome.google.com/webstore/detail/recon/hppfpgdjehfghhahbooafmlbjcgcleoh)
+* Right-Click XSS (https://addons.mozilla.org/es/firefox/addon/rightclickxss/)
+* Tamper Data (https://addons.mozilla.org/es/firefox/addon/tamper-data/) Chrome (https://chrome.google.com/webstore/detail/tamper-chrome-extension/hifhgpdkfodlpnlmlnmhchnkepplebkb)
+* User Agent Switcher (https://addons.mozilla.org/es/firefox/addon/user-agent-switcher/) Chrome (https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+* Wappalyzer (https://addons.mozilla.org/es/firefox/addon/wappalyzer/) Chrome (https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es)
+* Web Developer (https://addons.mozilla.org/es/firefox/addon/web-developer/) Chrome (https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 
 ####Additional Features:-
 * Downloading Burp Suite Certificate
