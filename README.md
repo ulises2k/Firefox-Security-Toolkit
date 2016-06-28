@@ -41,6 +41,7 @@ bash ./firefox_security_toolkit.sh
 * User Agent Switcher (https://addons.mozilla.org/es/firefox/addon/user-agent-switcher/)
 * Wappalyzer (https://addons.mozilla.org/es/firefox/addon/wappalyzer/)
 * Web Developer (https://addons.mozilla.org/es/firefox/addon/web-developer/) 
+* CacheViewer ( https://addons.mozilla.org/en-US/firefox/addon/cacheviewer/ )
 
 ####Available Addons Chrome:-
 * Cookie Export/Import ()
